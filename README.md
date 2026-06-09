@@ -22,18 +22,18 @@
 ## 📦 安装步骤
 
 ### 1. 克隆项目
-git clone https://github.com/yourusername/smart-translator.git
-cd smart-translator
+git clone https://github.com/M1dnat/Translate-Al-Agents.git
+cd Translate-Al-Agents
 
 ### 2. 安装依赖
 pip install gradio langchain langchain-core python-dotenv
 
 ### 3. 配置API密钥
 创建 .env 文件，添加：
-API_KEY=your_siliconflow_api_key_here
+API_KEY=你的SiliconFlow_API密钥
 
 ### 4. 运行应用
-python app.py
+python 智能翻译助手.py
 
 ## 🚀 使用方法
 
